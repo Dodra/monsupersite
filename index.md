@@ -1,7 +1,8 @@
 ---
 title: Mon super site
 ---
+# Accueil
 
-[Introduction](intro.md)
-
+- [Introduction](intro.md)
+- [Conclusion](conclu.md)
 
